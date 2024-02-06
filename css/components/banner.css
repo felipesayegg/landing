@@ -1,0 +1,38 @@
+.banner{
+  background-image: url(../../images/background.png);
+  background-size: cover;
+  background-position: center;
+  padding: 200px 0;
+  text-align: center;
+
+
+}
+
+.banner h1 {
+
+  display: block;
+  font-size: 10;
+  font-weight: bold;
+  color: bisque;
+
+}
+
+.banner p {
+  color: beige;
+  display: block;
+  
+}
+
+.banner a {
+  background-color: greenyellow;
+  color: beige;
+  border-radius:15;
+  padding: 16px 36px;
+  border-radius: 50px;
+
+}
+
+.banner h1, .banner p, .banner a {
+  margin: 30px;
+
+}
